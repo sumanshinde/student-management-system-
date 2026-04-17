@@ -1,0 +1,15 @@
+# .NET
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docuser.json
+
+# Node.js
+node_modules/
+dist/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
